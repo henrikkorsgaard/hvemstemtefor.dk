@@ -1,0 +1,23 @@
+{
+  "name": "hvemstemtefor.dk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrikkorsgaard/hvemstemtefor.dk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrikkorsgaard/hvemstemtefor.dk/issues"
+  },
+  "homepage": "https://github.com/henrikkorsgaard/hvemstemtefor.dk#readme",
+  "dependencies": {
+    "mongodb": "^3.0.4",
+    "mongoose": "^5.0.9"
+  }
+}
